@@ -14,7 +14,7 @@ namespace c_practiceConsoleApp2
             string date1 = "12052016";
             string date2 = "13062019";
            DateTime d1 = DateTime.Parse(date1);
-            DateTime d2 = DateTime.Parse(date2);
+            DateTime d2 = DateTime.Parse(date2 );
             int diff = d2.Year - d1.Year;
             
             Console.WriteLine("difference of the date in year="+diff);
