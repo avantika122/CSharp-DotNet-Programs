@@ -17,7 +17,7 @@ namespace c_practiceConsoleApp2
             DateTime d2 = DateTime.Parse(date2 );
             int diff = d2.Year - d1.Year;
             
-            Console.WriteLine("difference of the date in year="+diff);
+            Console.WriteLine("difference of the date in year="+diff );
 
         }
     }
