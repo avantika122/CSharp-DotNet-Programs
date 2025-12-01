@@ -19,7 +19,7 @@ namespace c_practiceConsoleApp2
                 d1 = (int)(d1 / 10);//1205201
                 sum += first;
             }
-            Console.WriteLine( sum );
+            Console.WriteLine( sum  );
 
             //*int first = d1 % 10;//6
             //d1 = (int)(d1 / 10);//1205201
